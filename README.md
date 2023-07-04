@@ -16,3 +16,6 @@ Also known as the pie chart that shows the relationships of the parts of the who
 In the stem and leaf plot, the data are organised from least value to the greatest value. The digits of the least place values from the leaves and the next place value digit forms the stems.
 # Box and Whisker Plot
 The plot diagram summarises the data by dividing into four parts. Box and whisker show the range (spread) and the middle (median) of the data.
+
+# Matplotlib
+It is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK.
